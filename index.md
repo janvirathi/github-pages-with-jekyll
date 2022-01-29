@@ -4,8 +4,6 @@ You can use the [editor on GitHub](https://github.com/janvirathi/github-pages-wi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -14,11 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-Janvi Rathi
 ## Header 2
-CSE, AIT Pune
 ### Header 3
-2nd Year UG
+
 - Bulleted
 - List
 
